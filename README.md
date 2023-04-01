@@ -4,5 +4,5 @@ Gocar Driver Apps Like from Udemy Course.
 
 ## Screen UI
 
-![](https://github.com/JahidHasanCO/Android-MVVM-Architecture-Firebase-Dagger-Hilt-Coroutines-Flow/blob/master/ART/auth.png) | ![](https://github.com/JahidHasanCO/Android-MVVM-Architecture-Firebase-Dagger-Hilt-Coroutines-Flow/blob/master/ART/main.png) 
+![](https://github.com/admalfrizi/gocar_driver_apps_like_flutter/blob/master/screenshots/Screenshot_20230401_163234.png) | ![](https://github.com/admalfrizi/gocar_driver_apps_like_flutter/blob/master/screenshots/Screenshot_20230401_163453.png) 
 
